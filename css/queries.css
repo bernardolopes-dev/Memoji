@@ -1,0 +1,48 @@
+@media (max-width:650px){
+    .logo{
+        margin-right: 50px;
+    }
+    
+    .enter{
+        display: none;
+    }
+
+    .icons-search{
+        margin-right: 20px;
+    }
+
+    .icons-person{
+        display: block;
+        flex-direction: row;
+        border: 2px solid #E7E7E7;
+        width: 40px;
+        height: 40px;
+        justify-content: center;
+        padding-left: 10px;
+        padding-top: 7px;
+        border-radius: 100px;
+}
+
+    .text-memoji h1{
+        font-size: 32px;
+    }
+
+    .buttons{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .btn-1{
+        width: 80vw;
+        margin-bottom: 20px;
+    }
+
+    .btn-2{
+        width: 80vw;
+        margin-right: 29px;
+    }
+}
+
+@media  (min-width:651px) and (max-width:800px) {
+    
+}
