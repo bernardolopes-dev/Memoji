@@ -1,4 +1,8 @@
 @media (max-width:650px){
+    *{
+        overflow-y: auto;
+    }
+    
     .logo{
         margin-right: 50px;
     }
@@ -41,8 +45,4 @@
         width: 80vw;
         margin-right: 29px;
     }
-}
-
-@media  (min-width:651px) and (max-width:800px) {
-    
 }
